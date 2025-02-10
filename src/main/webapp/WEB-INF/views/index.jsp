@@ -9,7 +9,8 @@
         <title>한글 설정 예제</title>
     </head>
 <body>
-    <h2>원동명의 테스트 페이지 ver 1.0</h2>
+    <h2>원동명의 테스트 페이지 ver 2.0</h2>
+    <h2>원동명의 Ansible Test  페이지 ver 1.0</h2>
     <h2>It's working on Tomcat server(9.0.65)</h2>
     <hr>
     <h1>${msg}</h1>
